@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "meloticz_having_crush_on_melon_--v_7_2c9c6695-ac14-43b0-85e3-bbfd0db5d088_3.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
